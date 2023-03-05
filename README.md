@@ -1,1 +1,2 @@
 # MTGDIR
+This is cool!
